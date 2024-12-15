@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "infantil-app",
+    "slug": "infantilapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/bgloading.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "runtimeVersion": {
+        "policy": "appVersion"
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.ipbela.infantil-app",
+      "runtimeVersion": "1.0.0"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "3b8d825b-b75f-42a9-8b01-fe9f196a2a93"
+      }
+    },
+    "updates": {
+      "url": "https://u.expo.dev/3b8d825b-b75f-42a9-8b01-fe9f196a2a93"
+    }
+  }
+}
