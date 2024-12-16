@@ -1,4 +1,4 @@
-package com.ipbela.infantilapp
+package com.ipbela.infantil_app
 import expo.modules.splashscreen.SplashScreenManager
 
 import android.os.Build

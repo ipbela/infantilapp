@@ -1,4 +1,4 @@
-package com.ipbela.infantilapp
+package com.ipbela.infantil_app
 
 import android.app.Application
 import android.content.res.Configuration
